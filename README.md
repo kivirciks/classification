@@ -21,8 +21,56 @@
 <h2>Теоретическая база</h2>
 Для решения задачи классификации изображений используются сверточные нейронные сети. Набор изображений следующий:<br>
 <br>
-   Медведи:<br>
-<img src="Изображения/1.jpg"/ width="100" height="80">
+<img src="Изображения/1.jpg"/ width="120" height="80">
+<img src="Изображения/2.jpg"/ width="120" height="80">
+<img src="Изображения/3.jpg"/ width="120" height="80">
+<img src="Изображения/4.jpg"/ width="120" height="80">
+<img src="Изображения/5.jpg"/ width="120" height="80">
+<img src="Изображения/6.jpg"/ width="120" height="80">
+<img src="Изображения/7.jpg"/ width="120" height="80">
+<img src="Изображения/8.jpg"/ width="120" height="80">
+<img src="Изображения/9.jpg"/ width="120" height="80">
+<img src="Изображения/10.jpg"/ width="120" height="80">
+<img src="Изображения/11.jpeg"/ width="120" height="80">
+<img src="Изображения/12.jpg"/ width="120" height="80">
+<img src="Изображения/13.jpg"/ width="120" height="80">
+<img src="Изображения/14.jpg"/ width="120" height="80">
+<img src="Изображения/15.jpg"/ width="120" height="80">
+<img src="Изображения/16.jpg"/ width="120" height="80">
+<img src="Изображения/17.jpg"/ width="120" height="80">
+<img src="Изображения/18.jpg"/ width="120" height="80">
+<img src="Изображения/19.jpg"/ width="120" height="80">
+<img src="Изображения/20.jpg"/ width="120" height="80">
+<img src="Изображения/21.jpg"/ width="120" height="80">
+<img src="Изображения/22.jpg"/ width="120" height="80">
+<img src="Изображения/23.jpg"/ width="120" height="80">
+<img src="Изображения/24.jpg"/ width="120" height="80">
+<img src="Изображения/25.jpg"/ width="120" height="80">
+<img src="Изображения/26.jpg"/ width="120" height="80">
+<img src="Изображения/27.jpg"/ width="120" height="80">
+<img src="Изображения/28.jpg"/ width="120" height="80">
+<img src="Изображения/29.jpg"/ width="120" height="80">
+<img src="Изображения/30.jpg"/ width="120" height="80">
+<img src="Изображения/31.jpg"/ width="120" height="80">
+<img src="Изображения/32.jpg"/ width="120" height="80">
+<img src="Изображения/33.jpg"/ width="120" height="80">
+<img src="Изображения/34.jpg"/ width="120" height="80">
+<img src="Изображения/35.jpg"/ width="120" height="80">
+<img src="Изображения/36.jpg"/ width="120" height="80">
+<img src="Изображения/37.jpg"/ width="120" height="80">
+<img src="Изображения/38.jpg"/ width="120" height="80">
+<img src="Изображения/39.jpg"/ width="120" height="80">
+<img src="Изображения/40.jpg"/ width="120" height="80">
+<img src="Изображения/41.jpg"/ width="120" height="80">
+<img src="Изображения/42.jpg"/ width="120" height="80">
+<img src="Изображения/43.jpg"/ width="120" height="80">
+<img src="Изображения/44.jpg"/ width="120" height="80">
+<img src="Изображения/45.jpg"/ width="120" height="80">
+<img src="Изображения/46.jpg"/ width="120" height="80">
+<img src="Изображения/47.jpg"/ width="120" height="80">
+<img src="Изображения/48.jpg"/ width="120" height="80">
+<img src="Изображения/49.jpg"/ width="120" height="80">
+<img src="Изображения/50.jpg"/ width="120" height="80">
 
 <h2>AlexNet</h2>
 Нейронная сеть AlexNet:
