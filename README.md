@@ -101,7 +101,7 @@ print('djfvnk', memory_usage()) <br>
     <th>ResNet50</th>
     <th>459 ms</th>
     <th>387 ms</th>
-    <th>ХХХ</th>
+    <th>1335.67578125</th>
     <th>84%</th>
     <th>96%</th>
    </tr>
